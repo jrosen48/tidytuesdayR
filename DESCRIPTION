@@ -58,4 +58,6 @@ Imports:
     httr,
     jsonlite,
     magrittr,
-    usethis
+    usethis,
+    ggplot2,
+    gifski
